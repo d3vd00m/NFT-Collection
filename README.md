@@ -9,7 +9,7 @@
 </ls>
 
 ### Prerequisites
-You should have completed the <a href="https://github.com/d3vd00m/Whitelist-Dapp.git" target="_blank">Whitelist dApp</a>
+You should have completed the <a href="https://github.com/d3vd00m/Whitelist-Dapp.git">Whitelist dApp</a>
 
 
 ### Demo here
