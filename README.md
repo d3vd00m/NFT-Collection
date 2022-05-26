@@ -7,4 +7,4 @@ Whitelisted users, should have a 5 min presale period before the actual sale whe
 There should be a website for your NFT Collection.
 
 Prerequisites
-You should have completed the <a href="https://github.com/d3vd00m/Whitelist-Dapp.git"  target="alt">Whitelist dApp</a>
+You should have completed the <a href="https://github.com/d3vd00m/Whitelist-Dapp.git"  target="_blank">Whitelist dApp</a>
