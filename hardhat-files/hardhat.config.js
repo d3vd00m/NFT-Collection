@@ -8,7 +8,7 @@ const DEVELOPER_PRIVATE_KEY = process.env.DEVELOPER_PRIVATE_KEY;
 module.exports = {
   solidity: "0.8.4",
   networks: {
-    goerli: {
+    matic: {
       url: ALCHEMY_API_KEY_URL,
       accounts: [DEVELOPER_PRIVATE_KEY],
     },
