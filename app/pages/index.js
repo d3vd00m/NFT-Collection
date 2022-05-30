@@ -214,8 +214,8 @@ export default function Home() {
       // We connect to the Contract using a Provider, so we will only
       // have read-only access to the Contract
       const nftContract = new Contract(NFT_CONTRACT_ADDRESS, abi, provider);
-      // call the tokenIds from the contract
-      const _tokenIds = await nftContract.tokenIds();
+      // call the totalTokenIds from the contract
+      const _tokenIds = await nftContract.totalTokenIds();
       //_tokenIds is a `Big Number`. We need to convert the Big Number to a string
       setTokenIdsMinted(_tokenIds.toString());
     } catch (err) {
