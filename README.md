@@ -1,4 +1,4 @@
-# NFT-Collection
+## NFT-Collection
 
 ### Requirements
 <ls>
